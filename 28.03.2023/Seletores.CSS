@@ -1,0 +1,29 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+}
+h1{
+    font-size: 2em;
+    color: green;
+}
+h2{
+    color:skyblue;
+
+}
+.topico{ 
+    text-align: right;
+}
+#tituloPrincipal{
+    background-color: rgb(6, 90, 6);
+    color: white;
+    text-align: center;
+}
+.topico1{
+    text-align: center;
+}
+.eu{color: rgb(74, 228, 74);
+}
+.eu2{
+    text-align: justify
+
+}

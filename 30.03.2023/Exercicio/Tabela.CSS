@@ -1,0 +1,10 @@
+table{
+    border: 1px solid aquamarine;
+    width: 300px;
+    border-collapse: collapse;
+}
+td, th{
+    border:1PX solid aqua;
+    width: 300px;
+    border-collapse: collapse;
+}
